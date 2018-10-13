@@ -1,0 +1,10 @@
+"Boarding Pass Custodian" app Privacy Policy
+
+* The app collects data contained in boarding passes, and manually entered or imported from a third-party website flight data.
+* The app is using the data to display or share the flight statistics and to display flight routes on the 3D globe.
+* The app is GDPR-compliant, i.e. it allows the user to download and delete all data from the cloud,
+and to prevent storing it in the cloud.
+* The app is not sharing the data with 3rd parties.
+* The data on device is not encrypted in any way.
+
+13 October 2018
