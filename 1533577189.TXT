@@ -1,0 +1,3 @@
+Grammarus app privacy policy:
+
+* The app does not gather or use information allowing to personally identify the user.
